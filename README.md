@@ -10,12 +10,12 @@ IEomics and III Manual: For users
 IEomics:
 
 # Step 2: File Conversion in MSConvert
- *	MS2 for R script
-   *	Upload .raw
-   *	Peak Picking (Vendor): Level: 2-2 (not Vendor for waters)
-   *	msLevel: 2-2
-   *	threshold: absolute .0001 most intense
-   *	Output: MS2
+* MS2 for R script
+  * Upload .raw
+  * Peak Picking (Vendor): Level: 2-2 (not Vendor for waters)
+  * msLevel: 2-2
+  * threshold: absolute .0001 most intense
+  * Output: MS2
 
 # Step 3: Run the script
  *	Open the code ([date]_IEomics.R) and after looking at the notes on the top of the script enter: Ctrl+Shift+S (or Ctrl+A and run), you can copy from a text editor and paste into R console. 
