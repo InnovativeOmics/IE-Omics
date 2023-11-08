@@ -1,12 +1,12 @@
-# USERS PLEASE DOWNLOAD THE STABLE RELEASE WHICH INCLUDES ALL DEPENDENCIES [Innovative Omics Software](innovativeomics.com/software/)
+# USERS PLEASE DOWNLOAD THE STABLE RELEASE WHICH INCLUDES ALL DEPENDENCIES [Innovative Omics Software](https://innovativeomics.com/software/)
 
 # IE-Omics
 iterative exclusion script for generating exclusion lists from previous runs
 
 IEomics and III Manual: For users
 
-# Step 1: Locate Necessary Programs
- *	R, use the version with this distribution:                                                                         IE_Omics_AND_III\R-3.3.3\bin\x64\Rgui.exe
+# Step 1: Locate Necessary Programs [Innovative Omics Software](https://innovativeomics.com/software/)
+ *	R, use the version with this distribution: IE_Omics_AND_III\R-3.3.3\bin\x64\Rgui.exe
  *	MSConvert (ProteoWizard), use the version with this distribution: IE_Omics_AND_III\msconvert64\MSConvertGUI.exe
 
 IEomics:
