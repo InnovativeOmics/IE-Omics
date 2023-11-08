@@ -1,3 +1,5 @@
+# USERS PLEASE DOWNLOAD THE STABLE RELEASE WHICH INCLUDES ALL DEPENDENCIES [Innovative Omics Software](innovativeomics.com/software/)
+
 # IE-Omics
 iterative exclusion script for generating exclusion lists from previous runs
 
